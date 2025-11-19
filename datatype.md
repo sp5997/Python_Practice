@@ -1,0 +1,11 @@
+<!-- Datatypes -->
+- Number: 1234, 2.32, 3+4j,Ob1211
+- String: 'lotus', "bob's"
+- List: [1,3.['ant', 2]]
+- Tuple: (1, 'spam', 4, 'U')
+- Dictionary: {'food' : 'yum'}
+- Set: set('abc'), {'a', 'b', 'c'}
+- File: open('es.txt)
+- Boolean: true, false
+- None: None
+- Functions, Modules, class
